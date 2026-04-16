@@ -1,8 +1,0 @@
-stop and wait ARQ //
-Go and back //
-selective window //
-sliding window
-piggy backing
-CRC
-parity checking
-hamming code
